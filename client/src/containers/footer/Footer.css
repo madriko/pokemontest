@@ -1,0 +1,14 @@
+.footer-copyright{
+    background-color: #282c35;
+    padding-top:3px;
+    padding-bottom:3px;
+}
+
+.footer-copyright p{
+    margin:10px;
+    color: #ccc;
+}
+
+.my-footer {
+    color:white;
+}
